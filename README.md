@@ -18,7 +18,7 @@ The tables below track all the problems I have successfully solved, organized by
 | Problem | Java |
 |---------|------|
 | [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Concatenation%20of%20Array/Main.java)</div></sub> |
-| Contains Duplicate | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Contains%20Duplicate/Main.java)</div></sub> |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Contains%20Duplicate/Main.java)</div></sub> |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Group%20Anagrams/Main.java)</div></sub> |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Longest%20Common%20Prefix/Main.java)</div></sub> |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Two%20Sum/Main.java)</div></sub> |
