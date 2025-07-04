@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/contains-duplicate/
+// LeetCode Problem: https://leetcode.com/problems/contains-duplicate/
 
 import java.util.HashMap;
 import java.util.Map;
