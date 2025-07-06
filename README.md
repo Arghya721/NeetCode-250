@@ -21,6 +21,7 @@ The tables below track all the problems I have successfully solved, organized by
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Contains%20Duplicate/Main.java)</div></sub> |
 | [Design Hashmap](https://leetcode.com/problems/design-hashmap/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Design%20HashMap/Main.java)</div></sub> |
 | [Design Hashset](https://leetcode.com/problems/design-hashset/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Design%20HashSet/Main.java)</div></sub> |
+| [Encode And Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Encode%20and%20Decode%20Strings/Main.java)</div></sub> |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Group%20Anagrams/Main.java)</div></sub> |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Longest%20Common%20Prefix/Main.java)</div></sub> |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Majority%20Element/Main.java)</div></sub> |
@@ -33,7 +34,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 13
+- **Total Problems Solved**: 14
 - **Topics Covered**: 1
 - **Languages**: Java
 
