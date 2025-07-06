@@ -19,14 +19,21 @@ The tables below track all the problems I have successfully solved, organized by
 |---------|------|
 | [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Concatenation%20of%20Array/Main.java)</div></sub> |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Contains%20Duplicate/Main.java)</div></sub> |
+| [Design Hashmap](https://leetcode.com/problems/design-hashmap/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Design%20HashMap/Main.java)</div></sub> |
+| [Design Hashset](https://leetcode.com/problems/design-hashset/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Design%20HashSet/Main.java)</div></sub> |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Group%20Anagrams/Main.java)</div></sub> |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Longest%20Common%20Prefix/Main.java)</div></sub> |
+| [Majority Element](https://leetcode.com/problems/majority-element/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Majority%20Element/Main.java)</div></sub> |
+| [Remove Element](https://leetcode.com/problems/remove-element/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Remove%20Element/Main.java)</div></sub> |
+| [Sort Colors](https://leetcode.com/problems/sort-colors/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Sort%20Colors/Main.java)</div></sub> |
+| [Sort An Array](https://leetcode.com/problems/sort-an-array/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Sort%20an%20Array/Main.java)</div></sub> |
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Top%20K%20Frequent%20Elements/Main.java)</div></sub> |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Two%20Sum/Main.java)</div></sub> |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Valid%20Anagram/Main.java)</div></sub> |
 
 ## Statistics
 
-- **Total Problems Solved**: 6
+- **Total Problems Solved**: 13
 - **Topics Covered**: 1
 - **Languages**: Java
 
