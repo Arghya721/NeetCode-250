@@ -25,6 +25,8 @@ The tables below track all the problems I have successfully solved, organized by
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Group%20Anagrams/Main.java)</div></sub> |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Longest%20Common%20Prefix/Main.java)</div></sub> |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Majority%20Element/Main.java)</div></sub> |
+| [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Product%20of%20Array%20Except%20Self/Main.java)</div></sub> |
+| [Range Sum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Range%20Sum%20Query%202D%20-%20Immutable/Main.java)</div></sub> |
 | [Remove Element](https://leetcode.com/problems/remove-element/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Remove%20Element/Main.java)</div></sub> |
 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Sort%20Colors/Main.java)</div></sub> |
 | [Sort An Array](https://leetcode.com/problems/sort-an-array/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Sort%20an%20Array/Main.java)</div></sub> |
@@ -34,7 +36,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 14
+- **Total Problems Solved**: 16
 - **Topics Covered**: 1
 - **Languages**: Java
 
