@@ -39,10 +39,20 @@ The tables below track all the problems I have successfully solved, organized by
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Valid%20Anagram/Main.java)</div></sub> |
 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Valid%20Sudoku/Main.java)</div></sub> |
 
+### Two Pointers
+
+| Problem | Java |
+|---------|------|
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | <sub><div align='center'>[✔️](./Two%20Pointers/Merge%20Sorted%20Array/Main.java)</div></sub> |
+| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | <sub><div align='center'>[✔️](./Two%20Pointers/Merge%20Strings%20Alternately/Main.java)</div></sub> |
+| [Reverse String](https://leetcode.com/problems/reverse-string/) | <sub><div align='center'>[✔️](./Two%20Pointers/Reverse%20String/Main.java)</div></sub> |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <sub><div align='center'>[✔️](./Two%20Pointers/Valid%20Palindrome/Main.java)</div></sub> |
+| [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) | <sub><div align='center'>[✔️](./Two%20Pointers/Valid%20Palindrome%20II/Main.java)</div></sub> |
+
 ## Statistics
 
-- **Total Problems Solved**: 21
-- **Topics Covered**: 1
+- **Total Problems Solved**: 26
+- **Topics Covered**: 2
 - **Languages**: Java
 
 ## 🤝 Contributing
