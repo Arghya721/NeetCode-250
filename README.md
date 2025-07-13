@@ -43,15 +43,20 @@ The tables below track all the problems I have successfully solved, organized by
 
 | Problem | Java |
 |---------|------|
+| [3Sum](https://leetcode.com/problems/3sum/) | <sub><div align='center'>[✔️](./Two%20Pointers/3Sum/Main.java)</div></sub> |
+| [4Sum](https://leetcode.com/problems/4sum/) | <sub><div align='center'>[✔️](./Two%20Pointers/4Sum/Main.java)</div></sub> |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | <sub><div align='center'>[✔️](./Two%20Pointers/Merge%20Sorted%20Array/Main.java)</div></sub> |
 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | <sub><div align='center'>[✔️](./Two%20Pointers/Merge%20Strings%20Alternately/Main.java)</div></sub> |
+| [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | <sub><div align='center'>[✔️](./Two%20Pointers/Remove%20Duplicates%20from%20Sorted%20Array/Main.java)</div></sub> |
 | [Reverse String](https://leetcode.com/problems/reverse-string/) | <sub><div align='center'>[✔️](./Two%20Pointers/Reverse%20String/Main.java)</div></sub> |
+| [Rotate Array](https://leetcode.com/problems/rotate-array/) | <sub><div align='center'>[✔️](./Two%20Pointers/Rotate%20Array/Main.java)</div></sub> |
+| [Two Sum Ii Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | <sub><div align='center'>[✔️](./Two%20Pointers/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Main.java)</div></sub> |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <sub><div align='center'>[✔️](./Two%20Pointers/Valid%20Palindrome/Main.java)</div></sub> |
 | [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) | <sub><div align='center'>[✔️](./Two%20Pointers/Valid%20Palindrome%20II/Main.java)</div></sub> |
 
 ## Statistics
 
-- **Total Problems Solved**: 26
+- **Total Problems Solved**: 31
 - **Topics Covered**: 2
 - **Languages**: Java
 
