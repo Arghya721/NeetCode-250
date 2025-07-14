@@ -45,19 +45,31 @@ The tables below track all the problems I have successfully solved, organized by
 |---------|------|
 | [3Sum](https://leetcode.com/problems/3sum/) | <sub><div align='center'>[✔️](./Two%20Pointers/3Sum/Main.java)</div></sub> |
 | [4Sum](https://leetcode.com/problems/4sum/) | <sub><div align='center'>[✔️](./Two%20Pointers/4Sum/Main.java)</div></sub> |
+| [Boats To Save People](https://leetcode.com/problems/boats-to-save-people/) | <sub><div align='center'>[✔️](./Two%20Pointers/Boats%20to%20Save%20People/Main.java)</div></sub> |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | <sub><div align='center'>[✔️](./Two%20Pointers/Container%20With%20Most%20Water/Main.java)</div></sub> |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | <sub><div align='center'>[✔️](./Two%20Pointers/Merge%20Sorted%20Array/Main.java)</div></sub> |
 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | <sub><div align='center'>[✔️](./Two%20Pointers/Merge%20Strings%20Alternately/Main.java)</div></sub> |
 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | <sub><div align='center'>[✔️](./Two%20Pointers/Remove%20Duplicates%20from%20Sorted%20Array/Main.java)</div></sub> |
 | [Reverse String](https://leetcode.com/problems/reverse-string/) | <sub><div align='center'>[✔️](./Two%20Pointers/Reverse%20String/Main.java)</div></sub> |
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | <sub><div align='center'>[✔️](./Two%20Pointers/Rotate%20Array/Main.java)</div></sub> |
+| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | <sub><div align='center'>[✔️](./Two%20Pointers/Trapping%20Rain%20Water/Main.java)</div></sub> |
 | [Two Sum Ii Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | <sub><div align='center'>[✔️](./Two%20Pointers/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Main.java)</div></sub> |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <sub><div align='center'>[✔️](./Two%20Pointers/Valid%20Palindrome/Main.java)</div></sub> |
 | [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) | <sub><div align='center'>[✔️](./Two%20Pointers/Valid%20Palindrome%20II/Main.java)</div></sub> |
 
+### Sliding Window
+
+| Problem | Java |
+|---------|------|
+| [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <sub><div align='center'>[✔️](./Sliding%20Window/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Main.java)</div></sub> |
+| [Contains Duplicate Ii](https://leetcode.com/problems/contains-duplicate-ii/) | <sub><div align='center'>[✔️](./Sliding%20Window/Contains%20Duplicate%20II/Main.java)</div></sub> |
+| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <sub><div align='center'>[✔️](./Sliding%20Window/Longest%20Repeating%20Character%20Replacement/Main.java)</div></sub> |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | <sub><div align='center'>[✔️](./Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters/Main.java)</div></sub> |
+
 ## Statistics
 
-- **Total Problems Solved**: 31
-- **Topics Covered**: 2
+- **Total Problems Solved**: 38
+- **Topics Covered**: 3
 - **Languages**: Java
 
 ## 🤝 Contributing
