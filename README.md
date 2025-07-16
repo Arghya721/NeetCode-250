@@ -63,6 +63,7 @@ The tables below track all the problems I have successfully solved, organized by
 |---------|------|
 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <sub><div align='center'>[✔️](./Sliding%20Window/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Main.java)</div></sub> |
 | [Contains Duplicate Ii](https://leetcode.com/problems/contains-duplicate-ii/) | <sub><div align='center'>[✔️](./Sliding%20Window/Contains%20Duplicate%20II/Main.java)</div></sub> |
+| [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | <sub><div align='center'>[✔️](./Sliding%20Window/Find%20K%20Closest%20Elements/Main.java)</div></sub> |
 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <sub><div align='center'>[✔️](./Sliding%20Window/Longest%20Repeating%20Character%20Replacement/Main.java)</div></sub> |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | <sub><div align='center'>[✔️](./Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters/Main.java)</div></sub> |
 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | <sub><div align='center'>[✔️](./Sliding%20Window/Minimum%20Size%20Subarray%20Sum/Main.java)</div></sub> |
@@ -70,7 +71,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 40
+- **Total Problems Solved**: 41
 - **Topics Covered**: 3
 - **Languages**: Java
 
