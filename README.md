@@ -67,11 +67,12 @@ The tables below track all the problems I have successfully solved, organized by
 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <sub><div align='center'>[✔️](./Sliding%20Window/Longest%20Repeating%20Character%20Replacement/Main.java)</div></sub> |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | <sub><div align='center'>[✔️](./Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters/Main.java)</div></sub> |
 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | <sub><div align='center'>[✔️](./Sliding%20Window/Minimum%20Size%20Subarray%20Sum/Main.java)</div></sub> |
+| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <sub><div align='center'>[✔️](./Sliding%20Window/Minimum%20Window%20Substring/Main.java)</div></sub> |
 | [Permutation In String](https://leetcode.com/problems/permutation-in-string/) | <sub><div align='center'>[✔️](./Sliding%20Window/Permutation%20in%20String/Main.java)</div></sub> |
 
 ## Statistics
 
-- **Total Problems Solved**: 41
+- **Total Problems Solved**: 42
 - **Topics Covered**: 3
 - **Languages**: Java
 
