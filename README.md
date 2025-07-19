@@ -69,10 +69,11 @@ The tables below track all the problems I have successfully solved, organized by
 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | <sub><div align='center'>[✔️](./Sliding%20Window/Minimum%20Size%20Subarray%20Sum/Main.java)</div></sub> |
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <sub><div align='center'>[✔️](./Sliding%20Window/Minimum%20Window%20Substring/Main.java)</div></sub> |
 | [Permutation In String](https://leetcode.com/problems/permutation-in-string/) | <sub><div align='center'>[✔️](./Sliding%20Window/Permutation%20in%20String/Main.java)</div></sub> |
+| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | <sub><div align='center'>[✔️](./Sliding%20Window/Sliding%20Window%20Maximum/Main.java)</div></sub> |
 
 ## Statistics
 
-- **Total Problems Solved**: 42
+- **Total Problems Solved**: 43
 - **Topics Covered**: 3
 - **Languages**: Java
 
