@@ -13,6 +13,16 @@ NeetCode 250 is a curated list of 250 coding problems designed to help you maste
 ## Progress Tracking
 
 The tables below track all the problems I have successfully solved, organized by topic and including links to the original problems.
+### Stack
+
+| Problem | Java |
+|---------|------|
+| [Baseball Game](https://leetcode.com/problems/baseball-game/) | <sub><div align='center'>[✔️](./Stack/Baseball%20Game/Main.java)</div></sub> |
+| [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | <sub><div align='center'>[✔️](./Stack/Implement%20Queue%20using%20Stacks/Main.java)</div></sub> |
+| [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | <sub><div align='center'>[✔️](./Stack/Implement%20Stack%20using%20Queues/Main.java)</div></sub> |
+| [Min Stack](https://leetcode.com/problems/min-stack/) | <sub><div align='center'>[✔️](./Stack/Min%20Stack/Main.java)</div></sub> |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <sub><div align='center'>[✔️](./Stack/Valid%20Parentheses/Main.java)</div></sub> |
+
 ### Arrays And Hashing
 
 | Problem | Java |
@@ -73,8 +83,8 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 43
-- **Topics Covered**: 3
+- **Total Problems Solved**: 48
+- **Topics Covered**: 4
 - **Languages**: Java
 
 ## 🤝 Contributing
