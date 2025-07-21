@@ -19,11 +19,13 @@ The tables below track all the problems I have successfully solved, organized by
 |---------|------|
 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | <sub><div align='center'>[✔️](./Stack/Asteroid%20Collision/Main.java)</div></sub> |
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | <sub><div align='center'>[✔️](./Stack/Baseball%20Game/Main.java)</div></sub> |
+| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | <sub><div align='center'>[✔️](./Stack/Daily%20Temperatures/Main.java)</div></sub> |
 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | <sub><div align='center'>[✔️](./Stack/Evaluate%20Reverse%20Polish%20Notation/Main.java)</div></sub> |
 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | <sub><div align='center'>[✔️](./Stack/Generate%20Parentheses/Main.java)</div></sub> |
 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | <sub><div align='center'>[✔️](./Stack/Implement%20Queue%20using%20Stacks/Main.java)</div></sub> |
 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | <sub><div align='center'>[✔️](./Stack/Implement%20Stack%20using%20Queues/Main.java)</div></sub> |
 | [Min Stack](https://leetcode.com/problems/min-stack/) | <sub><div align='center'>[✔️](./Stack/Min%20Stack/Main.java)</div></sub> |
+| [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | <sub><div align='center'>[✔️](./Stack/Online%20Stock%20Span/Main.java)</div></sub> |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <sub><div align='center'>[✔️](./Stack/Valid%20Parentheses/Main.java)</div></sub> |
 
 ### Arrays And Hashing
@@ -86,7 +88,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 51
+- **Total Problems Solved**: 53
 - **Topics Covered**: 4
 - **Languages**: Java
 
