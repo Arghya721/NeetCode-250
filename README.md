@@ -26,6 +26,8 @@ The tables below track all the problems I have successfully solved, organized by
 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | <sub><div align='center'>[✔️](./Stack/Generate%20Parentheses/Main.java)</div></sub> |
 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | <sub><div align='center'>[✔️](./Stack/Implement%20Queue%20using%20Stacks/Main.java)</div></sub> |
 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | <sub><div align='center'>[✔️](./Stack/Implement%20Stack%20using%20Queues/Main.java)</div></sub> |
+| [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | <sub><div align='center'>[✔️](./Stack/Largest%20Rectangle%20in%20Histogram/Main.java)</div></sub> |
+| [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | <sub><div align='center'>[✔️](./Stack/Maximum%20Frequency%20Stack/Main.java)</div></sub> |
 | [Min Stack](https://leetcode.com/problems/min-stack/) | <sub><div align='center'>[✔️](./Stack/Min%20Stack/Main.java)</div></sub> |
 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | <sub><div align='center'>[✔️](./Stack/Online%20Stock%20Span/Main.java)</div></sub> |
 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | <sub><div align='center'>[✔️](./Stack/Simplify%20Path/Main.java)</div></sub> |
@@ -91,7 +93,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 56
+- **Total Problems Solved**: 58
 - **Topics Covered**: 4
 - **Languages**: Java
 
