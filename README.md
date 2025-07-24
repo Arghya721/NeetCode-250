@@ -21,6 +21,7 @@ The tables below track all the problems I have successfully solved, organized by
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | <sub><div align='center'>[✔️](./Stack/Baseball%20Game/Main.java)</div></sub> |
 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | <sub><div align='center'>[✔️](./Stack/Car%20Fleet/Main.java)</div></sub> |
 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | <sub><div align='center'>[✔️](./Stack/Daily%20Temperatures/Main.java)</div></sub> |
+| [Decode String](https://leetcode.com/problems/decode-string/) | <sub><div align='center'>[✔️](./Stack/Decode%20String/Main.java)</div></sub> |
 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | <sub><div align='center'>[✔️](./Stack/Evaluate%20Reverse%20Polish%20Notation/Main.java)</div></sub> |
 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | <sub><div align='center'>[✔️](./Stack/Generate%20Parentheses/Main.java)</div></sub> |
 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | <sub><div align='center'>[✔️](./Stack/Implement%20Queue%20using%20Stacks/Main.java)</div></sub> |
@@ -90,7 +91,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 55
+- **Total Problems Solved**: 56
 - **Topics Covered**: 4
 - **Languages**: Java
 
