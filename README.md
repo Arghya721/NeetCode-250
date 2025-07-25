@@ -59,6 +59,16 @@ The tables below track all the problems I have successfully solved, organized by
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Valid%20Anagram/Main.java)</div></sub> |
 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <sub><div align='center'>[✔️](./Arrays%20And%20Hashing/Valid%20Sudoku/Main.java)</div></sub> |
 
+### Binary Search
+
+| Problem | Java |
+|---------|------|
+| [Binary Search](https://leetcode.com/problems/binary-search/) | <sub><div align='center'>[✔️](./Binary%20Search/Binary%20Search/Main.java)</div></sub> |
+| [Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | <sub><div align='center'>[✔️](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/Main.java)</div></sub> |
+| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | <sub><div align='center'>[✔️](./Binary%20Search/Search%20Insert%20Position/Main.java)</div></sub> |
+| [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <sub><div align='center'>[✔️](./Binary%20Search/Search%20a%202D%20Matrix/Main.java)</div></sub> |
+| [Sqrtx](https://leetcode.com/problems/sqrtx/) | <sub><div align='center'>[✔️](./Binary%20Search/Sqrt(x)/Main.java)</div></sub> |
+
 ### Two Pointers
 
 | Problem | Java |
@@ -93,8 +103,8 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 58
-- **Topics Covered**: 4
+- **Total Problems Solved**: 63
+- **Topics Covered**: 5
 - **Languages**: Java
 
 ## 🤝 Contributing
