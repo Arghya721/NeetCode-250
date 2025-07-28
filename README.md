@@ -72,7 +72,9 @@ The tables below track all the problems I have successfully solved, organized by
 | [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <sub><div align='center'>[✔️](./Binary%20Search/Search%20a%202D%20Matrix/Main.java)</div></sub> |
 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | <sub><div align='center'>[✔️](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array/Main.java)</div></sub> |
 | [Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | <sub><div align='center'>[✔️](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Main.java)</div></sub> |
+| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | <sub><div align='center'>[✔️](./Binary%20Search/Split%20Array%20Largest%20Sum/Main.java)</div></sub> |
 | [Sqrtx](https://leetcode.com/problems/sqrtx/) | <sub><div align='center'>[✔️](./Binary%20Search/Sqrt(x)/Main.java)</div></sub> |
+| [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/) | <sub><div align='center'>[✔️](./Binary%20Search/Time%20Based%20Key-Value%20Store/Main.java)</div></sub> |
 
 ### Two Pointers
 
@@ -108,7 +110,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 68
+- **Total Problems Solved**: 70
 - **Topics Covered**: 5
 - **Languages**: Java
 
