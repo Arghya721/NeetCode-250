@@ -66,8 +66,10 @@ The tables below track all the problems I have successfully solved, organized by
 | [Binary Search](https://leetcode.com/problems/binary-search/) | <sub><div align='center'>[✔️](./Binary%20Search/Binary%20Search/Main.java)</div></sub> |
 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | <sub><div align='center'>[✔️](./Binary%20Search/Capacity%20To%20Ship%20Packages%20Within%20D%20Days/Main.java)</div></sub> |
 | [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | <sub><div align='center'>[✔️](./Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array/Main.java)</div></sub> |
+| [Find In Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | <sub><div align='center'>[✔️](./Binary%20Search/Find%20in%20Mountain%20Array/Main.java)</div></sub> |
 | [Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | <sub><div align='center'>[✔️](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/Main.java)</div></sub> |
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | <sub><div align='center'>[✔️](./Binary%20Search/Koko%20Eating%20Bananas/Main.java)</div></sub> |
+| [Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | <sub><div align='center'>[✔️](./Binary%20Search/Median%20of%20Two%20Sorted%20Arrays/Main.java)</div></sub> |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | <sub><div align='center'>[✔️](./Binary%20Search/Search%20Insert%20Position/Main.java)</div></sub> |
 | [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <sub><div align='center'>[✔️](./Binary%20Search/Search%20a%202D%20Matrix/Main.java)</div></sub> |
 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | <sub><div align='center'>[✔️](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array/Main.java)</div></sub> |
@@ -110,7 +112,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 70
+- **Total Problems Solved**: 72
 - **Topics Covered**: 5
 - **Languages**: Java
 
