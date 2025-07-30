@@ -13,6 +13,14 @@ NeetCode 250 is a curated list of 250 coding problems designed to help you maste
 ## Progress Tracking
 
 The tables below track all the problems I have successfully solved, organized by topic and including links to the original problems.
+### Linked List
+
+| Problem | Java |
+|---------|------|
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | <sub><div align='center'>[✔️](./Linked%20List/Linked%20List%20Cycle/Main.java)</div></sub> |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <sub><div align='center'>[✔️](./Linked%20List/Merge%20Two%20Sorted%20Lists/Main.java)</div></sub> |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <sub><div align='center'>[✔️](./Linked%20List/Reverse%20Linked%20List/Main.java)</div></sub> |
+
 ### Stack
 
 | Problem | Java |
@@ -112,8 +120,8 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 72
-- **Topics Covered**: 5
+- **Total Problems Solved**: 75
+- **Topics Covered**: 6
 - **Languages**: Java
 
 ## 🤝 Contributing
