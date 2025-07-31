@@ -19,6 +19,7 @@ The tables below track all the problems I have successfully solved, organized by
 |---------|------|
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | <sub><div align='center'>[✔️](./Linked%20List/Linked%20List%20Cycle/Main.java)</div></sub> |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <sub><div align='center'>[✔️](./Linked%20List/Merge%20Two%20Sorted%20Lists/Main.java)</div></sub> |
+| [Reorder List](https://leetcode.com/problems/reorder-list/) | <sub><div align='center'>[✔️](./Linked%20List/Reorder%20List/Main.java)</div></sub> |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <sub><div align='center'>[✔️](./Linked%20List/Reverse%20Linked%20List/Main.java)</div></sub> |
 
 ### Stack
@@ -120,7 +121,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 75
+- **Total Problems Solved**: 76
 - **Topics Covered**: 6
 - **Languages**: Java
 
