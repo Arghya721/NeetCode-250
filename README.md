@@ -17,10 +17,15 @@ The tables below track all the problems I have successfully solved, organized by
 
 | Problem | Java |
 |---------|------|
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | <sub><div align='center'>[✔️](./Linked%20List/Add%20Two%20Numbers/Main.java)</div></sub> |
+| [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <sub><div align='center'>[✔️](./Linked%20List/Copy%20List%20with%20Random%20Pointer/Main.java)</div></sub> |
+| [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | <sub><div align='center'>[✔️](./Linked%20List/Find%20the%20Duplicate%20Number/Main.java)</div></sub> |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | <sub><div align='center'>[✔️](./Linked%20List/Linked%20List%20Cycle/Main.java)</div></sub> |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <sub><div align='center'>[✔️](./Linked%20List/Merge%20Two%20Sorted%20Lists/Main.java)</div></sub> |
+| [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | <sub><div align='center'>[✔️](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/Main.java)</div></sub> |
 | [Reorder List](https://leetcode.com/problems/reorder-list/) | <sub><div align='center'>[✔️](./Linked%20List/Reorder%20List/Main.java)</div></sub> |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <sub><div align='center'>[✔️](./Linked%20List/Reverse%20Linked%20List/Main.java)</div></sub> |
+| [Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii/) | <sub><div align='center'>[✔️](./Linked%20List/Reverse%20Linked%20List%20II/Main.java)</div></sub> |
 
 ### Stack
 
@@ -121,7 +126,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 76
+- **Total Problems Solved**: 81
 - **Topics Covered**: 6
 - **Languages**: Java
 
