@@ -21,13 +21,16 @@ The tables below track all the problems I have successfully solved, organized by
 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <sub><div align='center'>[✔️](./Linked%20List/Copy%20List%20with%20Random%20Pointer/Main.java)</div></sub> |
 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | <sub><div align='center'>[✔️](./Linked%20List/Design%20Circular%20Queue/Main.java)</div></sub> |
 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | <sub><div align='center'>[✔️](./Linked%20List/Find%20the%20Duplicate%20Number/Main.java)</div></sub> |
+| [Lfu Cache](https://leetcode.com/problems/lfu-cache/) | <sub><div align='center'>[✔️](./Linked%20List/LFU%20Cache/Main.java)</div></sub> |
 | [Lru Cache](https://leetcode.com/problems/lru-cache/) | <sub><div align='center'>[✔️](./Linked%20List/LRU%20Cache/Main.java)</div></sub> |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | <sub><div align='center'>[✔️](./Linked%20List/Linked%20List%20Cycle/Main.java)</div></sub> |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <sub><div align='center'>[✔️](./Linked%20List/Merge%20Two%20Sorted%20Lists/Main.java)</div></sub> |
+| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | <sub><div align='center'>[✔️](./Linked%20List/Merge%20k%20Sorted%20Lists/Main.java)</div></sub> |
 | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | <sub><div align='center'>[✔️](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/Main.java)</div></sub> |
 | [Reorder List](https://leetcode.com/problems/reorder-list/) | <sub><div align='center'>[✔️](./Linked%20List/Reorder%20List/Main.java)</div></sub> |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <sub><div align='center'>[✔️](./Linked%20List/Reverse%20Linked%20List/Main.java)</div></sub> |
 | [Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii/) | <sub><div align='center'>[✔️](./Linked%20List/Reverse%20Linked%20List%20II/Main.java)</div></sub> |
+| [Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | <sub><div align='center'>[✔️](./Linked%20List/Reverse%20Nodes%20in%20k-Group/Main.java)</div></sub> |
 
 ### Stack
 
@@ -128,7 +131,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 83
+- **Total Problems Solved**: 86
 - **Topics Covered**: 6
 - **Languages**: Java
 
