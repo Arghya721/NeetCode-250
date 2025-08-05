@@ -56,11 +56,14 @@ The tables below track all the problems I have successfully solved, organized by
 
 | Problem | Java |
 |---------|------|
+| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | <sub><div align='center'>[✔️](./Trees/Balanced%20Binary%20Tree/Main.java)</div></sub> |
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | <sub><div align='center'>[✔️](./Trees/Binary%20Tree%20Inorder%20Traversal/Main.java)</div></sub> |
 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | <sub><div align='center'>[✔️](./Trees/Binary%20Tree%20Postorder%20Traversal/Main.java)</div></sub> |
 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | <sub><div align='center'>[✔️](./Trees/Binary%20Tree%20Preorder%20Traversal/Main.java)</div></sub> |
+| [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <sub><div align='center'>[✔️](./Trees/Diameter%20of%20Binary%20Tree/Main.java)</div></sub> |
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | <sub><div align='center'>[✔️](./Trees/Invert%20Binary%20Tree/Main.java)</div></sub> |
 | [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <sub><div align='center'>[✔️](./Trees/Maximum%20Depth%20of%20Binary%20Tree/Main.java)</div></sub> |
+| [Same Tree](https://leetcode.com/problems/same-tree/) | <sub><div align='center'>[✔️](./Trees/Same%20Tree/Main.java)</div></sub> |
 
 ### Arrays And Hashing
 
@@ -141,7 +144,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 91
+- **Total Problems Solved**: 94
 - **Topics Covered**: 7
 - **Languages**: Java
 
