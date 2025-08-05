@@ -64,6 +64,7 @@ The tables below track all the problems I have successfully solved, organized by
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | <sub><div align='center'>[✔️](./Trees/Invert%20Binary%20Tree/Main.java)</div></sub> |
 | [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <sub><div align='center'>[✔️](./Trees/Maximum%20Depth%20of%20Binary%20Tree/Main.java)</div></sub> |
 | [Same Tree](https://leetcode.com/problems/same-tree/) | <sub><div align='center'>[✔️](./Trees/Same%20Tree/Main.java)</div></sub> |
+| [Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | <sub><div align='center'>[✔️](./Trees/Subtree%20of%20Another%20Tree/Main.java)</div></sub> |
 
 ### Arrays And Hashing
 
@@ -144,7 +145,7 @@ The tables below track all the problems I have successfully solved, organized by
 
 ## Statistics
 
-- **Total Problems Solved**: 94
+- **Total Problems Solved**: 95
 - **Topics Covered**: 7
 - **Languages**: Java
 
